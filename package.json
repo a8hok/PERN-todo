@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/a8hok/PERN-stack/issues"
   },
-  "homepage": "https://github.com/a8hok/PERN-stack#readme",
+  "homepage": "https://github.com/a8hok/PERN-stack",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
