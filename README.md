@@ -1,10 +1,8 @@
-## PERN-stack
+## PERN
 
-To explore PERN stack
-
-[PostgreSQL](https://www.postgresql.org/)
-[ExpressJS](https://expressjs.com/)
-[ReactJS](https://reactjs.org/)
+[PostgreSQL](https://www.postgresql.org/)\
+[ExpressJS](https://expressjs.com/)\
+[ReactJS](https://reactjs.org/)\
 [NodeJS](https://nodejs.org/en/)
 
 Install the dependencies and devDependencies and start the server.
