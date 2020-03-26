@@ -1,0 +1,39 @@
+{
+  "name": "pern-stack",
+  "version": "1.0.0",
+  "description": "To explore PERN stack",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier-eslint —eslint-config-path ./.eslintrc.json --write '**/*.js'",
+    "lint": "eslint . —ext .js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a8hok/PERN-stack.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "ReactJS",
+    "Postgresql"
+  ],
+  "author": "Ashokkumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a8hok/PERN-stack/issues"
+  },
+  "homepage": "https://github.com/a8hok/PERN-stack#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "^7.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "prettier": "^2.0.2",
+    "prettier-eslint": "^9.0.1",
+    "prettier-eslint-cli": "^5.0.0"
+  }
+}
