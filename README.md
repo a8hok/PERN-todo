@@ -13,3 +13,11 @@ $ cd PERN-stack
 $ npm install
 $ nodemon index
 ```
+
+Install the dependencies and devDependencies and start the client.
+
+```sh
+$ cd client
+$ npm install
+$ npm start
+```
